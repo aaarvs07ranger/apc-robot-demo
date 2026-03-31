@@ -1,0 +1,4 @@
+numpy>=1.23
+matplotlib>=3.6
+tensorflow-macos>=2.12
+tensorflow-metal>=2.12
