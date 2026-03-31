@@ -150,12 +150,11 @@ training completes in under two minutes.  The script writes
 If you use this code in academic work, please cite the motivating paper:
 
 ```bibtex
-@article{zador2023lessons,
-  title   = {Catalyzing next-generation Artificial Intelligence
-             through NeuroAI},
-  author  = {Zador, Anthony and others},
-  journal = {Nature Communications},
-  year    = {2023}
+@article{rao2025lessons,
+  title   = {Lessons from Neuroscience for AI: How integrating Actions, Compositional Structure and Episodic Memory could enable Safe, Interpretable and Human-Like AI},
+  author  = {Rao, Rajesh P.N. and Sathish, Vishwas and Jiang, Linxing Preston and Bryan, Matthew and Rangarajan, Prashant},
+  journal = {arXiv preprint arXiv:2512.22568},
+  year    = {2025}
 }
 ```
 
